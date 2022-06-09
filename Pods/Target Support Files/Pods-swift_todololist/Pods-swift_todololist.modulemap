@@ -1,0 +1,6 @@
+framework module Pods_swift_todololist {
+  umbrella header "Pods-swift_todololist-umbrella.h"
+
+  export *
+  module * { export * }
+}
